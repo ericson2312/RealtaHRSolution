@@ -1,0 +1,12 @@
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\bin\Debug\net6.0\VBHRDBLib.deps.json
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\bin\Debug\net6.0\VBHRDBLib.dll
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\bin\Debug\net6.0\VBHRDBLib.pdb
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.vbproj.AssemblyReference.cache
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.AssemblyInfoInputs.cache
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.AssemblyInfo.vb
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.vbproj.CoreCompileInputs.cache
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.dll
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\refint\VBHRDBLib.dll
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\VBHRDBLib.pdb
+D:\KUROnime\Bootcamp\Quiz Mini\RealtaHRSolution\VBHRDBLib\obj\Debug\net6.0\ref\VBHRDBLib.dll
